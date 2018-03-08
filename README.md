@@ -1,6 +1,13 @@
 # threejs-playground
 A three.js boilerplate scene with a couple of demo furniture objects. Use it as a starting point to tweak rendering and lighting.
 
+## Build and run
+* Make sure you have node.js and npm installed ( https://nodejs.org )
+* Fork and check-out the repository
+* Open a terminal and navigate to the project's folder
+* Run `npm install`
+* Run `npm run dev` to spawn a local webserver for development. You should now be able to open the scene in your browser with this URL: `http://localhost:8080`
+
 # what to do
 Fork this repository and make the rendering visually stunning and as photo realistic as possible.
 
