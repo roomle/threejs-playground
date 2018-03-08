@@ -3,13 +3,13 @@ A three.js boilerplate scene with a couple of demo furniture objects. Use it as 
 
 ## Build and run
 * Make sure you have node.js and npm installed ( https://nodejs.org )
-* Fork and check-out the repository
+* Check-out the repository
 * Open a terminal and navigate to the project's folder
 * Run `npm install`
 * Run `npm run dev` to spawn a local webserver for development. You should now be able to open the scene in your browser with this URL: `http://localhost:8080`
 
-# what to do
-Fork this repository and make the rendering visually stunning and as photo realistic as possible.
+# What to do
+Clone this repository and make the rendering visually stunning and as photo realistic as possible.
 
 Feel liberated when it comes to using/choices of:
 * Lighting / Lights
@@ -39,5 +39,7 @@ Feel liberated when it comes to using/choices of:
 * Scale up the quality on more powerful clients (desktop)
 * Easy on battery/ hardware resources
 
-
-
+# Submit / Get in contact
+Feel free to show your results publicly via forked repository / pull request or host it somewhere. If you don't want to disclose your code or assets, feel free to obfuscate it or simply share a screencast.
+Send results to graphics@roomle.com
+We're looking forward to it!
