@@ -43,3 +43,7 @@ Feel liberated when it comes to using/choices of:
 Feel free to show your results publicly via forked repository / pull request or host it somewhere. If you don't want to disclose your code or assets, feel free to obfuscate it or simply share a screencast.
 Send results to graphics@roomle.com
 We're looking forward to it!
+
+# References
+[![USM](ref/USM.jpg)]
+[![Lounge](ref/Lounge.jpg)]
