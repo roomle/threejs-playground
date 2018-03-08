@@ -45,5 +45,5 @@ Send results to graphics@roomle.com
 We're looking forward to it!
 
 # References
-[![USM](ref/USM.jpg)]
-[![Lounge](ref/Lounge.jpg)]
+![USM](ref/USM.jpg)
+![Lounge](ref/Lounge.jpg)
